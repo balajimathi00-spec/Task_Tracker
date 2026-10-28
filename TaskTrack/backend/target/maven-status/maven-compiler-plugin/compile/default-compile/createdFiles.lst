@@ -1,0 +1,10 @@
+com\tasktrack\task\TaskRequest.class
+com\tasktrack\task\TaskPriority.class
+com\tasktrack\task\Task.class
+com\tasktrack\task\TaskService.class
+com\tasktrack\task\TaskController.class
+com\tasktrack\task\TaskRepository.class
+com\tasktrack\task\ApiExceptionHandler.class
+com\tasktrack\config\WebConfig.class
+com\tasktrack\TaskTrackApplication.class
+com\tasktrack\task\TaskStatus.class
